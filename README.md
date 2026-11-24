@@ -7,7 +7,7 @@
 
 This repository contains the low-level firmware and drivers for a UWB (Ultra-Wideband) positioning network. It allows **ESP32** microcontrollers to communicate with **Decawave DWM1000** modules to perform high-precision Time-of-Flight (ToF) ranging.
 
-This project is the hardware companion to the high-level positioning algorithm: [UWB-Drone-Positioning-System](https://github.com/Mertcagliyan/UWB-Drone-Positioning-System).
+This project is the hardware companion to the high-level positioning algorithm: [UWB-Drone-Positioning-System](https://github.com/Mertcagliyan/UWB-Drone-Positioning).
 
 ## 📂 Repository Structure
 
@@ -73,4 +73,4 @@ This driver was developed as part of a comprehensive autonomous drone positionin
 
 ## 📄 License
 **GNU General Public License v3.0**
-See the [LICENSE](LICENSE) file for details.
+See the [LICENSE](https://github.com/Mertcagliyan/ESP32-DWM1000-Driver?tab=GPL-3.0-1-ov-file) file for details.
